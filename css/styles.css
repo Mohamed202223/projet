@@ -1,0 +1,149 @@
+body{
+  background-image:url('https://imgs.search.brave.com/JX4AvlxUaAeZ5_anGaKQdaMoGevbJ85IIdyy-QYp0HU/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvNTY1/MjAzNS5qcGc');
+}
+.a:hover{
+  background-color: black;
+
+}
+
+#navv{
+    font-style: italic;
+    text-decoration: none;
+    color: rgb(251, 249, 252);
+    background-color: rgb(37, 73, 114);
+    
+}
+#l-header{
+  background-color: rgb(54, 50, 50);
+
+}
+.a1{
+  color:rgb(37, 73, 114);
+  font-size:300%;
+}
+
+.a4{
+  color:rgb(37, 73, 114);
+  font-size:300%;
+}
+.a2{
+  text-decoration-style:double;
+  left: 4px;
+  
+  color: rgb(93, 94, 95);
+  font-size:xx-large
+}
+img1 {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 20px;
+  
+  /* width: 600px; */
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+#a3{
+  margin-left: 60%;
+  
+  color: rgb(197, 43, 64);
+  position:relative; left:200px; top:-560px;;
+}
+.a4s{
+  color:rgb(37, 73, 114);
+  font-size:300%;
+}
+.div1 {
+  width: 600px;
+  padding: 130px;
+  border: 5px solid gray;
+  margin: 0;
+  font-size: 20px;
+  background-color: lightblue;
+}
+
+.div1:hover{
+  background-color:rgb(55, 129, 214);
+  
+}
+.div3{
+  border: 1px solid black;
+  margin: -830px 0px 00px 880px;
+  padding:140px 0px 80px 220px;
+  background-color: lightblue;
+  font-size: 20px;
+  border: 5px solid gray;
+  
+}
+.div4{
+  border: 1px solid black;
+  margin: 00px 0px 00px 880px;
+  padding:160px 0px 100px 220px;
+  background-color: lightblue;
+  font-size: 20px;
+  border: 5px solid gray;
+  
+}
+.div3:hover{
+  background-color:rgb(55, 129, 214);
+  
+}
+.div4:hover{
+  background-color:rgb(55, 129, 214);
+  
+}
+input[type=text] {
+  background-color: #9476f7;
+  
+  background-size: 10px;
+  background-position: 3px 3px;
+  background-repeat: no-repeat;
+  padding-left: 20px;  
+  
+}
+.b1{
+  width: 300px;
+  height: 50px;
+}
+.b2{
+  width: 300px;
+  height: 50px;
+  
+
+}
+.b3{
+  width: 630px;
+  height: 50px;
+
+}
+.b4{
+  width: 630px;
+  height: 200px;
+
+}
+.b5{
+  width: 350px;
+  height: 50px;
+  background-color: #9476f7;
+}
+#coul{
+  color:rgb(37, 73, 114);
+  font-size:xx-large;
+
+}
+#dc{
+  margin: -430px 90px 00px 880px;
+}
+#chr{
+  font-size: x-large;
+}
+.div4s:hover{
+  border: 1px solid black;
+  
+  padding:220px 580px 100px 700px;
+  background-color: lightblue;
+  font-size: 20px;
+  border: 5px solid gray;
+  
+}
